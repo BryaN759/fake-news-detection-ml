@@ -1,4 +1,4 @@
-This is a project for Fake News detechtion using Machine Learning.
+This is a project for Fake News detection using Machine Learning.
 
 Dataset : https://www.kaggle.com/code/therealsampat/fake-news-detection?scriptVersionId=53633812&cellId=6
 
